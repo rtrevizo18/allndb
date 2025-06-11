@@ -1,5 +1,5 @@
 {
-  "cmake.sourceDirectory": "/home/ricardo-trevizo/Documents/Code/C++/allndb",
+  "cmake.sourceDirectory": "${workspaceFolder}",
   "editor.formatOnSave": true,
   "clang-format.executable": "/usr/bin/clang-format",
   "cmake.configureSettings": {
