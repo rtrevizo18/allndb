@@ -1,0 +1,9 @@
+{
+  "cmake.sourceDirectory": "/home/ricardo-trevizo/Documents/Code/C++/allndb",
+  "editor.formatOnSave": true,
+  "clang-format.executable": "/usr/bin/clang-format",
+  "cmake.configureSettings": {
+    "CMAKE_TOOLCHAIN_FILE": "${workspaceFolder}/vcpkg/scripts/buildsystems/vcpkg.cmake",
+    "CMAKE_PREFIX_PATH": "${workspaceFolder}/vcpkg_installed/x64-linux"
+  }
+}

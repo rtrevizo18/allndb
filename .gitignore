@@ -1,0 +1,43 @@
+# --- Build Artifacts ---
+/build/*
+!/build/.gitkeep
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# --- vcpkg ---
+/vcpkg
+/vcpkg_installed
+
+# --- Binaries ---
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# --- IDEs ---
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- clang/format/lint tools ---
+.clang-format
+.clang-tidy
+
+# --- Misc ---
+*.swp
+*.bak
+*.tmp
